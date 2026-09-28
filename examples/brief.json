@@ -1,0 +1,14 @@
+{
+  "title": "Smart onboarding checklist",
+  "owner": "Murtuza Mohammed",
+  "problem": "38% of new workspaces never connect a data source in week one, and those workspaces churn at 3x the rate of the rest (sample numbers).",
+  "users": ["New workspace admins in their first 7 days", "Sales-led trial accounts"],
+  "goals": ["More new workspaces reach first value in week one", "Fewer onboarding tickets"],
+  "metrics": [
+    {"name": "Week-one data source connected", "baseline": "62%", "target": "75%", "by": "end of Q1"},
+    {"name": "Onboarding tickets per 100 signups", "baseline": "9", "target": "6", "by": "end of Q1"}
+  ],
+  "scope": ["Checklist with 4 steps that tick themselves off", "Contextual help per step", "Admin can dismiss"],
+  "out_of_scope": ["Guided product tours", "Changes to pricing or trial length"],
+  "risks": ["Checklist fatigue if it nags", "Step 3 depends on the integrations API rewrite"]
+}

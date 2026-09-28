@@ -1,0 +1,241 @@
+deal_id,segment,competitor,amount,outcome,reason
+D-1000,Mid-market,Competitor B,22000,Won,
+D-1001,Mid-market,Competitor A,20000,Lost,Missing integration
+D-1002,Enterprise,Competitor B,168000,Won,
+D-1003,Enterprise,Competitor A,161000,Lost,Price
+D-1004,Enterprise,Competitor C,198000,Lost,Security review
+D-1005,SMB,Competitor B,9000,Won,
+D-1006,Mid-market,Competitor A,54000,Lost,Security review
+D-1007,Mid-market,No decision,55000,Lost,Missing integration
+D-1008,Enterprise,Competitor B,122000,Lost,Security review
+D-1009,Mid-market,No decision,25000,Won,
+D-1010,Enterprise,Competitor C,185000,Won,
+D-1011,SMB,Competitor A,13000,Lost,Missing integration
+D-1012,Mid-market,No decision,22000,Lost,Feature gap: reporting
+D-1013,Mid-market,Competitor A,37000,Won,
+D-1014,Mid-market,No decision,19000,Lost,Missing integration
+D-1015,SMB,Competitor A,12000,Lost,Price
+D-1016,Enterprise,No decision,187000,Lost,Missing integration
+D-1017,SMB,Competitor C,11000,Lost,Chose incumbent
+D-1018,Mid-market,No decision,23000,Lost,Price
+D-1019,SMB,Competitor B,11000,Won,
+D-1020,Mid-market,Competitor A,41000,Won,
+D-1021,Enterprise,Competitor A,234000,Lost,Missing integration
+D-1022,Mid-market,Competitor A,21000,Lost,Price
+D-1023,Enterprise,No decision,147000,Won,
+D-1024,Enterprise,Competitor A,197000,Lost,Security review
+D-1025,Enterprise,Competitor B,98000,Lost,Feature gap: reporting
+D-1026,SMB,Competitor C,17000,Won,
+D-1027,Mid-market,No decision,24000,Won,
+D-1028,SMB,Competitor C,3000,Won,
+D-1029,Enterprise,Competitor C,199000,Won,
+D-1030,SMB,Competitor A,14000,Lost,Feature gap: reporting
+D-1031,Mid-market,Competitor B,39000,Won,
+D-1032,SMB,Competitor B,10000,Lost,Price
+D-1033,Mid-market,Competitor C,68000,Lost,Missing integration
+D-1034,Enterprise,Competitor C,149000,Lost,Price
+D-1035,Enterprise,No decision,112000,Won,
+D-1036,Mid-market,Competitor C,60000,Lost,Feature gap: reporting
+D-1037,SMB,Competitor B,13000,Won,
+D-1038,Enterprise,No decision,81000,Lost,Price
+D-1039,Enterprise,Competitor A,179000,Won,
+D-1040,SMB,No decision,7000,Lost,Price
+D-1041,SMB,Competitor A,9000,Lost,Timing
+D-1042,Enterprise,Competitor A,134000,Lost,Timing
+D-1043,Mid-market,Competitor C,21000,Lost,Feature gap: reporting
+D-1044,SMB,No decision,7000,Lost,Security review
+D-1045,Enterprise,No decision,215000,Lost,Price
+D-1046,Mid-market,Competitor A,61000,Lost,Timing
+D-1047,Enterprise,Competitor A,130000,Lost,Security review
+D-1048,SMB,Competitor A,13000,Lost,Security review
+D-1049,SMB,Competitor B,18000,Lost,Security review
+D-1050,Enterprise,Competitor C,111000,Lost,Missing integration
+D-1051,Mid-market,No decision,33000,Won,
+D-1052,Enterprise,Competitor B,91000,Lost,Feature gap: reporting
+D-1053,SMB,Competitor C,10000,Won,
+D-1054,SMB,Competitor A,10000,Won,
+D-1055,Enterprise,No decision,163000,Lost,Price
+D-1056,Mid-market,Competitor A,39000,Lost,Missing integration
+D-1057,Enterprise,No decision,219000,Lost,Price
+D-1058,Enterprise,Competitor A,129000,Won,
+D-1059,Mid-market,Competitor B,70000,Lost,Missing integration
+D-1060,SMB,No decision,4000,Lost,Timing
+D-1061,Enterprise,No decision,128000,Lost,Timing
+D-1062,Enterprise,Competitor B,91000,Won,
+D-1063,Mid-market,No decision,57000,Lost,Price
+D-1064,SMB,Competitor B,4000,Lost,Price
+D-1065,Mid-market,Competitor C,36000,Lost,Security review
+D-1066,Enterprise,Competitor C,64000,Lost,Price
+D-1067,SMB,Competitor B,6000,Won,
+D-1068,SMB,No decision,12000,Lost,Chose incumbent
+D-1069,Enterprise,Competitor C,240000,Won,
+D-1070,Mid-market,Competitor C,18000,Lost,Security review
+D-1071,Mid-market,No decision,60000,Won,
+D-1072,SMB,Competitor C,4000,Lost,Missing integration
+D-1073,Enterprise,Competitor C,127000,Lost,Feature gap: reporting
+D-1074,SMB,Competitor C,14000,Won,
+D-1075,Enterprise,Competitor A,81000,Lost,Security review
+D-1076,Enterprise,Competitor B,61000,Lost,Timing
+D-1077,Enterprise,No decision,160000,Lost,Missing integration
+D-1078,Enterprise,Competitor A,195000,Lost,Chose incumbent
+D-1079,SMB,No decision,12000,Lost,Chose incumbent
+D-1080,SMB,Competitor B,16000,Won,
+D-1081,SMB,Competitor B,3000,Lost,Timing
+D-1082,SMB,Competitor B,14000,Won,
+D-1083,Enterprise,No decision,202000,Lost,Security review
+D-1084,SMB,Competitor B,5000,Won,
+D-1085,SMB,Competitor A,18000,Lost,Missing integration
+D-1086,Enterprise,Competitor C,112000,Won,
+D-1087,Mid-market,No decision,36000,Won,
+D-1088,SMB,Competitor B,11000,Won,
+D-1089,SMB,Competitor C,18000,Lost,Price
+D-1090,Mid-market,Competitor A,49000,Lost,Chose incumbent
+D-1091,Mid-market,No decision,53000,Lost,Missing integration
+D-1092,Enterprise,No decision,177000,Won,
+D-1093,Mid-market,No decision,22000,Won,
+D-1094,Enterprise,Competitor C,93000,Lost,Feature gap: reporting
+D-1095,SMB,Competitor C,3000,Won,
+D-1096,Enterprise,Competitor A,234000,Lost,Missing integration
+D-1097,Enterprise,No decision,140000,Lost,Price
+D-1098,Mid-market,No decision,63000,Won,
+D-1099,SMB,Competitor C,15000,Won,
+D-1100,SMB,Competitor A,11000,Won,
+D-1101,Enterprise,Competitor C,229000,Won,
+D-1102,Enterprise,Competitor C,140000,Lost,Timing
+D-1103,Mid-market,Competitor A,43000,Lost,Chose incumbent
+D-1104,Enterprise,No decision,95000,Lost,Missing integration
+D-1105,SMB,Competitor B,12000,Won,
+D-1106,Mid-market,Competitor C,34000,Lost,Chose incumbent
+D-1107,Mid-market,No decision,25000,Lost,Chose incumbent
+D-1108,Enterprise,Competitor B,187000,Lost,Missing integration
+D-1109,Mid-market,No decision,30000,Lost,Price
+D-1110,Mid-market,Competitor A,34000,Won,
+D-1111,Enterprise,No decision,194000,Lost,Missing integration
+D-1112,Enterprise,No decision,152000,Lost,Price
+D-1113,Enterprise,No decision,174000,Lost,Timing
+D-1114,Enterprise,Competitor B,181000,Won,
+D-1115,Enterprise,Competitor A,195000,Lost,Missing integration
+D-1116,Enterprise,Competitor B,193000,Won,
+D-1117,SMB,No decision,7000,Won,
+D-1118,Enterprise,Competitor A,137000,Lost,Security review
+D-1119,Mid-market,Competitor A,51000,Won,
+D-1120,Mid-market,Competitor C,18000,Won,
+D-1121,SMB,Competitor C,10000,Lost,Missing integration
+D-1122,Enterprise,Competitor B,165000,Won,
+D-1123,Enterprise,Competitor A,232000,Won,
+D-1124,Enterprise,Competitor C,168000,Won,
+D-1125,Mid-market,Competitor A,41000,Lost,Price
+D-1126,Mid-market,Competitor A,37000,Won,
+D-1127,Enterprise,No decision,135000,Won,
+D-1128,SMB,Competitor B,4000,Lost,Feature gap: reporting
+D-1129,Enterprise,No decision,66000,Won,
+D-1130,Mid-market,Competitor A,43000,Lost,Feature gap: reporting
+D-1131,Mid-market,Competitor A,39000,Lost,Price
+D-1132,SMB,No decision,15000,Won,
+D-1133,Mid-market,Competitor C,18000,Won,
+D-1134,Mid-market,Competitor A,53000,Lost,Missing integration
+D-1135,Mid-market,No decision,48000,Won,
+D-1136,Mid-market,No decision,65000,Won,
+D-1137,Enterprise,No decision,220000,Won,
+D-1138,Enterprise,No decision,76000,Won,
+D-1139,Mid-market,Competitor B,39000,Lost,Missing integration
+D-1140,SMB,Competitor A,11000,Won,
+D-1141,Mid-market,Competitor A,69000,Lost,Price
+D-1142,Enterprise,Competitor A,179000,Lost,Timing
+D-1143,Mid-market,No decision,29000,Won,
+D-1144,SMB,Competitor C,10000,Lost,Missing integration
+D-1145,Mid-market,No decision,23000,Won,
+D-1146,Mid-market,Competitor B,59000,Won,
+D-1147,Mid-market,Competitor C,24000,Won,
+D-1148,Mid-market,Competitor A,49000,Won,
+D-1149,Enterprise,Competitor B,177000,Won,
+D-1150,SMB,Competitor A,11000,Lost,Security review
+D-1151,Mid-market,Competitor C,46000,Lost,Price
+D-1152,Enterprise,Competitor B,208000,Won,
+D-1153,Enterprise,No decision,122000,Won,
+D-1154,SMB,Competitor A,3000,Lost,Missing integration
+D-1155,Enterprise,No decision,70000,Lost,Price
+D-1156,Enterprise,Competitor B,155000,Lost,Missing integration
+D-1157,Mid-market,Competitor A,63000,Won,
+D-1158,Enterprise,Competitor A,96000,Lost,Feature gap: reporting
+D-1159,Enterprise,Competitor B,143000,Lost,Price
+D-1160,Mid-market,Competitor A,53000,Won,
+D-1161,Enterprise,No decision,161000,Won,
+D-1162,SMB,Competitor A,11000,Lost,Missing integration
+D-1163,Mid-market,Competitor C,37000,Won,
+D-1164,Mid-market,No decision,59000,Won,
+D-1165,Mid-market,No decision,45000,Won,
+D-1166,Mid-market,Competitor A,54000,Lost,Missing integration
+D-1167,Enterprise,Competitor B,201000,Won,
+D-1168,Enterprise,Competitor C,103000,Lost,Missing integration
+D-1169,SMB,Competitor B,18000,Lost,Chose incumbent
+D-1170,Enterprise,Competitor C,71000,Won,
+D-1171,Enterprise,No decision,218000,Won,
+D-1172,SMB,Competitor B,18000,Won,
+D-1173,Enterprise,Competitor B,192000,Won,
+D-1174,Mid-market,Competitor A,20000,Won,
+D-1175,SMB,Competitor C,12000,Won,
+D-1176,SMB,No decision,15000,Won,
+D-1177,SMB,Competitor C,3000,Won,
+D-1178,Enterprise,No decision,174000,Lost,Timing
+D-1179,Mid-market,No decision,40000,Won,
+D-1180,Mid-market,Competitor A,50000,Lost,Price
+D-1181,Enterprise,Competitor A,140000,Lost,Price
+D-1182,SMB,No decision,5000,Lost,Feature gap: reporting
+D-1183,SMB,Competitor A,8000,Won,
+D-1184,SMB,Competitor B,11000,Won,
+D-1185,Enterprise,Competitor C,130000,Lost,Price
+D-1186,SMB,No decision,10000,Won,
+D-1187,Mid-market,Competitor C,43000,Won,
+D-1188,SMB,Competitor C,11000,Lost,Price
+D-1189,SMB,Competitor A,6000,Lost,Missing integration
+D-1190,SMB,No decision,15000,Lost,Feature gap: reporting
+D-1191,SMB,Competitor B,10000,Won,
+D-1192,Enterprise,Competitor A,192000,Lost,Security review
+D-1193,SMB,Competitor C,7000,Lost,Missing integration
+D-1194,SMB,No decision,7000,Won,
+D-1195,Mid-market,Competitor B,19000,Lost,Price
+D-1196,Mid-market,Competitor C,52000,Won,
+D-1197,Mid-market,Competitor C,41000,Lost,Price
+D-1198,Enterprise,Competitor B,175000,Lost,Security review
+D-1199,SMB,Competitor C,4000,Won,
+D-1200,SMB,Competitor C,18000,Lost,Missing integration
+D-1201,Enterprise,Competitor A,66000,Won,
+D-1202,Enterprise,Competitor B,86000,Won,
+D-1203,Enterprise,No decision,215000,Won,
+D-1204,SMB,Competitor B,4000,Won,
+D-1205,SMB,No decision,16000,Lost,Chose incumbent
+D-1206,Mid-market,Competitor A,29000,Lost,Feature gap: reporting
+D-1207,Mid-market,Competitor B,39000,Lost,Chose incumbent
+D-1208,Mid-market,No decision,34000,Lost,Chose incumbent
+D-1209,Enterprise,Competitor A,63000,Lost,Feature gap: reporting
+D-1210,SMB,Competitor B,15000,Lost,Missing integration
+D-1211,Enterprise,No decision,221000,Lost,Missing integration
+D-1212,SMB,Competitor A,10000,Lost,Security review
+D-1213,Mid-market,Competitor B,22000,Won,
+D-1214,Enterprise,Competitor A,87000,Won,
+D-1215,Mid-market,Competitor B,20000,Lost,Chose incumbent
+D-1216,SMB,Competitor A,14000,Lost,Price
+D-1217,SMB,Competitor A,10000,Lost,Price
+D-1218,Enterprise,Competitor A,222000,Won,
+D-1219,Mid-market,Competitor A,31000,Won,
+D-1220,Mid-market,Competitor C,40000,Won,
+D-1221,Mid-market,Competitor A,38000,Lost,Timing
+D-1222,SMB,Competitor A,6000,Lost,Missing integration
+D-1223,SMB,Competitor A,5000,Lost,Security review
+D-1224,Mid-market,Competitor B,30000,Won,
+D-1225,Enterprise,Competitor A,84000,Lost,Feature gap: reporting
+D-1226,SMB,Competitor C,8000,Lost,Missing integration
+D-1227,Enterprise,Competitor B,88000,Lost,Missing integration
+D-1228,SMB,Competitor A,15000,Lost,Feature gap: reporting
+D-1229,SMB,Competitor A,14000,Won,
+D-1230,Enterprise,Competitor C,199000,Won,
+D-1231,Mid-market,Competitor B,52000,Lost,Missing integration
+D-1232,Mid-market,Competitor B,60000,Lost,Price
+D-1233,Mid-market,Competitor C,39000,Lost,Chose incumbent
+D-1234,SMB,Competitor B,7000,Won,
+D-1235,SMB,Competitor B,14000,Lost,Price
+D-1236,Mid-market,Competitor B,28000,Won,
+D-1237,Enterprise,No decision,97000,Won,
+D-1238,SMB,Competitor C,6000,Won,
+D-1239,Mid-market,Competitor B,20000,Lost,Missing integration
