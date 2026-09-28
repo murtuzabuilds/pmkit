@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pmkit"
+version = "0.1.0"
+description = "Small, honest tools for product managers: RICE with sensitivity, PRD linting, win/loss dashboards."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Murtuza Mohammed" }]
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[project.scripts]
+pmkit = "pmkit.cli:main"
+
+[tool.setuptools]
+packages = ["pmkit"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
