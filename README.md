@@ -69,4 +69,4 @@ pip install -e ".[dev]" && pytest -q   # 6 tests, no runtime dependencies
 
 ---
 
-Built by [Murtuza Mohammed](https://murtuzabuilds.com). MIT licensed.
+Built by [Murtuza](https://murtuzabuilds.com). MIT licensed.

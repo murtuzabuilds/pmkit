@@ -1,6 +1,6 @@
 {
   "title": "Smart onboarding checklist",
-  "owner": "Murtuza Mohammed",
+  "owner": "Murtuza",
   "problem": "38% of new workspaces never connect a data source in week one, and those workspaces churn at 3x the rate of the rest (sample numbers).",
   "users": ["New workspace admins in their first 7 days", "Sales-led trial accounts"],
   "goals": ["More new workspaces reach first value in week one", "Fewer onboarding tickets"],

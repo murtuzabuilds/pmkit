@@ -9,7 +9,7 @@ description = "Small, honest tools for product managers: RICE with sensitivity, 
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "Murtuza Mohammed" }]
+authors = [{ name = "Murtuza" }]
 dependencies = []
 
 [project.optional-dependencies]
